@@ -2,6 +2,13 @@
 
 This sample project shows how to expose a machine learning model built with [Accord.NET](http://accord-framework.net/) via a [Suave](https://suave.io/) API
 
+## Dependencies
+
+### F# Tools
+[Windows](https://fsharp.org/use/windows/)
+[Linux](https://fsharp.org/use/linux/)
+[Mac](https://fsharp.org/use/mac/)
+
 ## Install
 
 ### Windows
