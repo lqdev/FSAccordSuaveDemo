@@ -5,8 +5,8 @@ This sample project shows how to expose a machine learning model built with [Acc
 ## Dependencies
 
 ### F# Tools
-[Windows](https://fsharp.org/use/windows/)
-[Linux](https://fsharp.org/use/linux/)
+[Windows](https://fsharp.org/use/windows/)  
+[Linux](https://fsharp.org/use/linux/)  
 [Mac](https://fsharp.org/use/mac/)
 
 ## Install
